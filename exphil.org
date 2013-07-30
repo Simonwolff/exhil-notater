@@ -1,3 +1,5 @@
+Dette er en endring
+
 * info om kurset
   - http://bibtexuio.wordpress.com/ om tex på uio, spes med bibtex
   - helst gå på forelesning før man kommer på uketimene
